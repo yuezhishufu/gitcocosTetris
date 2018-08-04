@@ -1,0 +1,33 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": false,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Tetris",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "1f4fe6ea-a917-42ec-a545-23dc9d8cb1d1",
+  "title": "TetrisForMinyi",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx0fa514248ae03ea9",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "49a02dd2-183a-46",
+  "zipCompressJs": true
+}
